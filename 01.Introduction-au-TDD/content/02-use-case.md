@@ -4,7 +4,7 @@ Le **Test-Driven Development (TDD)** peut sembler abstrait lorsqu'on l'aborde po
 
 ---
 
-## Le cas des systèmes critiques : un exemple spectaculaire 🚀
+## Le cas des systèmes critiques : un exemple spectaculaire
 
 Imaginez un projet où une simple erreur peut avoir des conséquences catastrophiques : le contrôle des fusées. Lors du développement des logiciels embarqués pour les fusées, chaque ligne de code compte. Sans tests rigoureux, une simple erreur peut entraîner un crash coûteux ou, pire, des pertes humaines.
 
@@ -19,7 +19,7 @@ Dans des systèmes critiques comme celui des fusées, le TDD agit comme un **fil
 
 ---
 
-## Applications concrètes dans le monde de l’ingénierie logicielle 🖥️
+## Applications concrètes dans le monde de l’ingénierie logicielle
 
 Le TDD est utilisé dans de nombreux domaines pour garantir un code robuste et évolutif. Voici quelques exemples réels où le TDD brille :
 
@@ -41,7 +41,7 @@ Dans les systèmes comme les plateformes d’e-commerce ou les applications banc
 
 ---
 
-## TDD et productivité : une vision long terme 🕒
+## TDD et productivité : une vision long terme
 
 Il est vrai que le TDD peut sembler ralentir le développement au départ. Écrire un test avant d'écrire la fonctionnalité demande de la rigueur et du temps, surtout lorsque l'on débute. Cependant, cette perception est trompeuse. Sur le long terme, le TDD est un **investissement stratégique**.
 
@@ -58,7 +58,7 @@ Dans un contexte d’équipe, ou lors du transfert d’un projet, les tests écr
 
 ---
 
-## Autres bénéfices pertinents 🌟
+## Autres bénéfices pertinents
 
 - **Amélioration de la conception** : En vous forçant à penser aux cas d’utilisation avant d’écrire du code, le TDD améliore la conception globale de votre application.
 - **Satisfaction utilisateur** : Moins de bugs en production se traduisent par une meilleure expérience utilisateur.

@@ -4,7 +4,7 @@ Dans ce dernier chapitre, nous allons faire un résumé de ce que nous avons app
 
 ---
 
-## Résumé de notre parcours 📚
+## Résumé de notre parcours
 
 Voici un récapitulatif des chapitres précédents et des points clés :
 
@@ -22,7 +22,7 @@ En somme, le TDD est une méthode exigeante mais extrêmement bénéfique. Elle 
 
 ---
 
-## Conseils pour progresser en TDD 🚀
+## Conseils pour progresser en TDD
 
 Apprendre et maîtriser le TDD est un **travail de longue haleine**. Voici quelques conseils pour progresser :
 
@@ -44,7 +44,7 @@ Apprendre et maîtriser le TDD est un **travail de longue haleine**. Voici quelq
 
 ---
 
-## Ressources complémentaires 📖
+## Ressources complémentaires
 
 ### Livres incontournables sur le TDD et le craft
 1. **"Test-Driven Development: By Example" de Kent Beck**
@@ -92,7 +92,7 @@ Je suis convaincu que le partage et l’apprentissage continu sont au cœur d’
 
 ---
 
-## En conclusion 🎉
+## En conclusion
 
 Le TDD est bien plus qu’une méthode : c’est un état d’esprit. Au fil de ce cours, vous avez appris à :
 - Comprendre et appliquer le cycle **Red, Green, Refactor**.
@@ -102,4 +102,4 @@ Le TDD est bien plus qu’une méthode : c’est un état d’esprit. Au fil de 
 
 Rappelez-vous que le chemin vers la maîtrise du TDD est progressif. Avec de la pratique, de la patience et les bonnes ressources, vous pourrez non seulement améliorer vos compétences, mais aussi inspirer et guider vos collègues vers un code de meilleure qualité.
 
-Bonne pratique et bon code ! 🚀
+Bonne pratique et bon code !
