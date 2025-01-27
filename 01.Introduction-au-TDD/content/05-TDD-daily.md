@@ -117,5 +117,5 @@ Adopter le TDD dans un projet legacy peut sembler difficile, mais c'est faisable
 - **Ajoutez des tests progressivement**, en vous concentrant sur les nouvelles fonctionnalités et les bugs.
 - **Impliquez l'équipe** et montrez les bénéfices concrets pour réduire les résistances.
 
-
+DAns le prochain chapitre, nous conclurons ce tutoriel et je vous donnerais des astuces et des ressources pour aller plus loin.
 
