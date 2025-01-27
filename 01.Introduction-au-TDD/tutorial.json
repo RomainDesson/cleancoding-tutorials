@@ -1,0 +1,44 @@
+{
+  "id": "intro-tdd",
+  "title": "Introduction au TDD",
+  "description": "Découvrez le Test-Driven Development à travers un exemple pratique",
+  "author": {
+    "name": "Romain Desson",
+    "github": "https://github.com/romaindesson"
+  },
+  "duration": "45 minutes",
+  "difficulty": "Débutant",
+  "prerequisites": [
+    "Bases de JavaScript/TypeScript",
+    "Node.js installé",
+    "Notions de tests unitaires"
+  ],
+  "topics": [
+    "TDD",
+    "Tests unitaires",
+    "Red-Green-Refactor",
+    "Jest"
+  ],
+  "chapters": [
+    {
+      "id": "introduction",
+      "title": "Qu'est-ce que le TDD ?",
+      "file": "01-intro.md"
+    },
+    {
+      "id": "first-test",
+      "title": "Écrire son premier test",
+      "file": "02-premier-test.md"
+    },
+    {
+      "id": "red-green-refactor",
+      "title": "Le cycle Red-Green-Refactor",
+      "file": "03-cycle-tdd.md"
+    },
+    {
+      "id": "practice",
+      "title": "Mise en pratique",
+      "file": "04-pratique.md"
+    }
+  ]
+}
