@@ -24,5 +24,5 @@ D'abord, une **bonne maîtrise des bases de votre langage de programmation** est
 
 Ensuite, un **environnement de développement configuré** est indispensable. Cela implique l'installation des outils nécessaires, tels que Node.js pour JavaScript, ainsi que d'un framework de tests adapté comme Jest ou Vitest. Ces outils facilitent l'écriture et l'exécution des tests de manière rapide et fiable.
 
-En résumé, le TDD est une méthodologie exigeante mais extrêmement bénéfique. Elle impose une rigueur dans la conception et l'écriture du code, tout en garantissant une qualité et une maintenabilité accrues. Dans le prochain chapitre, nous explorerons comment mettre ces principes en pratique avec des exemples concrets et des cas d'usage variés.
+Pour l'instant, l'interêt du TDD peut sembler flou, dans le prochain chapitre, nous allons voir des cas d'applications concrets du TDD et son impact sur les applications du monde réel.
 

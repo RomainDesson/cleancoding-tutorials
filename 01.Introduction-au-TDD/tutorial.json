@@ -6,7 +6,7 @@
     "name": "Romain Desson",
     "github": "https://github.com/romaindesson"
   },
-  "duration": "45 minutes",
+  "duration": "30 minutes",
   "difficulty": "Débutant",
   "prerequisites": [
     "Bases de JavaScript/TypeScript",
@@ -16,7 +16,7 @@
   "topics": [
     "TDD",
     "Tests unitaires",
-    "Red-Green-Refactor",
+    "Typescript",
     "Jest"
   ],
   "chapters": [
@@ -27,18 +27,28 @@
     },
     {
       "id": "first-test",
-      "title": "Écrire son premier test",
-      "file": "02-premier-test.md"
+      "title": "Les applications concrètes du TDD",
+      "file": "02-use-case.md"
     },
     {
-      "id": "red-green-refactor",
-      "title": "Le cycle Red-Green-Refactor",
-      "file": "03-cycle-tdd.md"
+      "id": "typescript-examples",
+      "title": "Écrire son premier test avec Typescript",
+      "file": "03-typescript-examples.md"
     },
     {
-      "id": "practice",
-      "title": "Mise en pratique",
-      "file": "04-pratique.md"
+      "id": "best-practices",
+      "title": "Bonnes pratiques en TDD",
+      "file": "04-best-practices.md"
+    },
+    {
+      "id": "tdd-daily",
+      "title": "Implémenter le TDD dans votre quotidien",
+      "file": "05-tdd-daily.md"
+    },
+    {
+      "id": "tips-and-ressources",
+      "title": "Conseils et ressources supplémentaires",
+      "file": "06-tips-and-ressources.md"
     }
   ]
 }
